@@ -79,7 +79,7 @@
 }
 
 /*DESKTOP VERSION*/
-@media screen and (min-width: 992px) {
+@media screen and (min-width: 577px) {
     body {
         font-family: 'Stick No Bills', sans-serif;
     }
@@ -119,7 +119,7 @@
         margin-left: 1rem;
     }
     section.sub-section {
-        width: 30%;
+        width: 32%;
         float: right;
         margin-right: 1rem;
         font-style: italic;
